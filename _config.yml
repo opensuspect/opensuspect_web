@@ -54,10 +54,10 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 2500
 lines: # You can add HTML Tags in the Text
-  - text: "Open Source Among Us Clone"
-  - text: "Who is the impostor?"
+  - text: "A social deduction game, inspired by great works such as mafia, or among us"
+  - text: "Who is the traitor?"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -160,7 +160,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "OpenSuspect is an open source Among Us Clone."
+author_blurb: "OpenSuspect is a  social deduction game, inspired by great works such as mafia, or among us"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -189,7 +189,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: 
 keybase-in-social: True
 keybase-in-footer: True
 
