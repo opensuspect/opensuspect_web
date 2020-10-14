@@ -1,2 +1,15 @@
-2020/10/14 07:51:58 Micro started
-2020/10/14 07:51:58 monokai-dark is not a plugin
+2020/10/14 07:54:43 Micro started
+2020/10/14 07:54:43 monokai-dark is not a plugin
+2020/10/14 07:54:43 real runtime file gdscript
+2020/10/14 07:54:43 real runtime file html
+2020/10/14 07:54:43 real runtime file lua
+2020/10/14 07:54:43 real runtime file markdown
+2020/10/14 07:54:43 real runtime file sh
+2020/10/14 07:54:43 real runtime file zsh
+2020/10/14 07:54:54 real runtime file gdscript
+2020/10/14 07:54:54 real runtime file html
+2020/10/14 07:54:54 real runtime file lua
+2020/10/14 07:54:54 real runtime file markdown
+2020/10/14 07:54:54 real runtime file sh
+2020/10/14 07:54:54 real runtime file zsh
+2020/10/14 07:54:54 real runtime file syntax
