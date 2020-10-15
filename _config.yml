@@ -222,3 +222,8 @@ gems:
   - jekyll-paginate
   - jemoji
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
