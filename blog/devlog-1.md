@@ -1,5 +1,6 @@
 ---
 title: devlog 1
+layout: post
 ---
 * * *</section>
 
